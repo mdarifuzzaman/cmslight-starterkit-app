@@ -10,3 +10,6 @@ middleware.ts -> The basic middleware is set. This pushes one header (which is t
 ComponentFactory.tsx -> This is one of the important component which will be used to create component dynamically based on defined in the cmslight
 Some basic components -> Header, Footer and a SampleTestComponent
 
+Please fork this branch to start your FE project created using cmslight
+
+
